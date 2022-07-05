@@ -21,6 +21,9 @@
 
 - 📄 Know about my experiences [-](-)
 
+![](https://github-readme-stats.vercel.app/api?username=Dansecret&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dansecret&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dansecret&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hamdandih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdandih" height="30" width="40" /></a>
