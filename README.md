@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <a href = "https://dansecret.github.io/" target="_blank" >Hamdandih</a>and I'm a Student Informatics in Ahmad Dahlan University, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is <a href = "https://dansecret.github.io/" target="_blank" > Hamdandih </a>and I'm a Student Informatics in Ahmad Dahlan University, from Indonesia</h2>
 
 ###
 
