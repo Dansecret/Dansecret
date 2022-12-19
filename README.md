@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
 </div>
 
 ###
@@ -40,6 +41,6 @@
 
 ###
 
-![snake gif](https://github.com/dansecret/dansecret/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/dansecret/dansecret/blob/output/snake.svg" alt="Snake animation" />
 
 ###
