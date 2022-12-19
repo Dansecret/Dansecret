@@ -1,4 +1,4 @@
-<h5 align="left">Hi 👋! My name is hamdandih and I'm a Robotic developer from Indonesia</h5>
+<h5 align="left">Hi 👋! My name is <a href="dansecret.github.io" target="blank_">hamdandih </a>and I'm a Robotic developer from Indonesia</h5>
 
 ###
 
@@ -15,9 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="30" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="30"" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="30" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="30" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="30"" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="30" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="30" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="30" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="30" alt="linux logo"  />
@@ -34,9 +34,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" href="https://www.instagram.com/"  target="blank_" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" href="//mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=hamdandih01@gmail.com"  target="blank_" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/hamdandih-013948218/?trk=public_profile_browsemap&originalSubdomain=id"  target="blank_" height="25" alt="linkedin logo"  />
+ <a href="https://www.instagram.com/hamdandih/" target="blank_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  height="25" alt="instagram logo"  /></a>
+ <a href="//mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=hamdandih01@gmail.com"  target="blank_" ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+<a href="https://www.linkedin.com/in/hamdandih-013948218/?trk=public_profile_browsemap&originalSubdomain=id"  target="blank_">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="25" alt="linkedin logo"  /></a>
 </div>
 
 ###
