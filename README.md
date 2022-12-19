@@ -37,4 +37,5 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
 
-###
+### snake eating my contribution
+![snake gif](https://github.com/dansecret/dansecret/blob/output/github-contribution-grid-snake.gif)
